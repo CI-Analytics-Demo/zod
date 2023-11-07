@@ -38,4 +38,4 @@ actions:
     - trunk-upgrade-available
 merge:
   required_statuses:
-    - test
+    - test / Lint on Node 18 (pull_request)
