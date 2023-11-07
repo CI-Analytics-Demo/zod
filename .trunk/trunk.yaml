@@ -36,3 +36,6 @@ actions:
     - trunk-fmt-pre-commit
   enabled:
     - trunk-upgrade-available
+merge:
+  required_statuses:
+    - test
